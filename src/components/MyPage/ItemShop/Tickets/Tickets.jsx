@@ -3,7 +3,8 @@ import * as S from './Styles';
 const Tickets = () => {
   return (
         <S.TicketsContainer>
-            <S.Title>티켓</S.Title>
+            {/*<S.Title>티켓</S.Title>*/}
+            <S.Title>부스참여권K(국제관)</S.Title>
             <S.HiContainer>
                 <S.HiWrpper>
                     <S.HiWrpper>
